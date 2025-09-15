@@ -1,7 +1,8 @@
 # AI Adoption Patterns: Economic Analysis of Anthropic Economic Index
-- [NumPy](https://numpy.org/)  
-- [Pandas](https://pandas.pydata.org/)  
-- [Matplotlib](https://matplotlib.org/)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
   
 Comprehensive analysis of AI usage patterns across industries using 4M+ Claude conversations
 
